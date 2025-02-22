@@ -99,7 +99,7 @@ int main() {
 
     // CALCULO DE RESULTADO
        
-    printf("_________Resultado________\n");
+    printf("Comparação de Cartas\n");
     printf( "População: %d\n", Populacao > Populacao_2);
     printf("Área: %d\n", (int) area > area_2);
     printf("PIB: %d\n", (int) pib > pib_2);
